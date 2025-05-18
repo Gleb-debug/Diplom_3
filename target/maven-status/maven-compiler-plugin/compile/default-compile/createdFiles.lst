@@ -1,0 +1,9 @@
+pages\dto\LoginTestUser.class
+pages\BasePage.class
+pages\ForgetPage.class
+pages\LoginPage.class
+util\CreateUserAPI.class
+pages\RegistrationPage.class
+pages\dto\CreateTestUser.class
+pages\ProfilePage.class
+pages\MainPage.class
